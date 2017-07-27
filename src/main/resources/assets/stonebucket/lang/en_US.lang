@@ -1,1 +1,11 @@
 item.stonebucket:StoneBucket.name=Stone Bucket
+item.stonebucket:StoneBucket.sand_stone.name=Sand Stone Bucket
+item.stonebucket:StoneBucket.end_stone.name=End Stone Bucket
+item.stonebucket:StoneBucket.granite.name=Granite Bucket
+item.stonebucket:StoneBucket.polished_granite.name=Polished Granite Bucket
+item.stonebucket:StoneBucket.diorite.name=Diorite Bucket
+item.stonebucket:StoneBucket.polished_diorite.name=Polished Diorite Bucket
+item.stonebucket:StoneBucket.andesite.name=Andesite Bucket
+item.stonebucket:StoneBucket.polished_andesite.name=Polished Andesite Bucket
+item.stonebucket:StoneBucket.mossy_cobble.name=Mossy Cobble Bucket
+item.stonebucket:StoneBucket.prismarined.name=Prismarined Bucket
