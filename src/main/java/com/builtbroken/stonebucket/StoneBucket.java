@@ -66,7 +66,7 @@ public class StoneBucket
                         " w ",
                         'w', itemstack,
                         's', "stickWood", 'c', "dye")
-                        .setRegistryName("bucket.stone.z" + itemstack));
+                        .setRegistryName("bucket.stone.z" + itemstack.getUnlocalizedName()));
             }
         }
     }
